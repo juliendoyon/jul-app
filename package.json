@@ -1,0 +1,22 @@
+{
+  "name": "jul-app",
+  "version": "1.0.0",
+  "description": "Test déploiement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliendoyon/jul-app.git"
+  },
+  "author": "Julien Doyon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliendoyon/jul-app/issues"
+  },
+  "homepage": "https://github.com/juliendoyon/jul-app#readme",
+  "dependencies": {
+    "express": "~4.16.4"
+  }
+}
